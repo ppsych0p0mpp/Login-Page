@@ -7,6 +7,7 @@
 }
 
 body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0a/3_Body_Problem_title_card.png);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,13 +23,14 @@ body{
     height: 480px;
     padding: 30px;
     background-color: rgb(107, 208, 248);
+    backdrop-filter: blur(20px);
 }
 .login-header{
     text-align: center;
     margin: 20px 0 40px 0;
 }
 .login-header{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 30px;
     font-weight: 600;
 }
@@ -62,7 +64,7 @@ section{
     display: flex;
     align-items: center;
     font-size: 14px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 #check{
     margin-right: 10px;
@@ -74,7 +76,7 @@ a:hover{
     text-decoration: underline;
 }
 section a{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255;
 }
 .input-submit{
     position: relative;
