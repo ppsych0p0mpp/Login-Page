@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/0/0a/3_Body_Problem_title_card.png);
+    background: url(https://upload.wikimedia.org/wikipedia/commons/0/0a/3_Body_Problem_title_card.png) no-repeat;
     background-size: 100%;
     display: flex;
     justify-content: center;
