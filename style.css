@@ -115,5 +115,7 @@ section a{
     color: #000;
     font-weight: 600;
     color: #dfdfdf;
-
+}
+.checkbox{
+    cursor: pointer;
 }
