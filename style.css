@@ -1,11 +1,9 @@
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 body{
     background: url(https://upload.wikimedia.org/wikipedia/commons/0/0a/3_Body_Problem_title_card.png) no-repeat;
     
@@ -57,8 +55,7 @@ body{
     color: #dfdfdf;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 40px;
-    
+    margin-bottom: 40px;   
 }
 section{
     display: flex;
@@ -115,7 +112,4 @@ section a{
     color: #000;
     font-weight: 600;
     color: #dfdfdf;
-}
-.checkbox{
-    cursor: pointer;
 }
